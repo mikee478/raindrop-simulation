@@ -4,10 +4,10 @@ import numpy as np
 class RaindropSimulation:
 
     AVG_ADJ_KERNEL = np.array([
-            [0.125, 0.125, 0.125],
-            [0.125, 0.000, 0.125],
-            [0.125, 0.125, 0.125]
-            ])
+            [1.0, 2.0, 1.0],
+            [2.0, 0.0, 2.0],
+            [1.0, 2.0, 1.0]
+            ])/12
 
     def __init__(self, shape, drop_prob):
         self.shape = shape
