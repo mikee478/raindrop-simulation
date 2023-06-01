@@ -8,4 +8,6 @@ To update the water's height at a particular grid cell, the simulation computes 
 
 The utilization of the average height of neighboring cells, coupled with the estimated velocity, results in a visually striking representation of raindrop behavior. As raindrops interact with the grid, their impact creates ripples that propagate and merge with adjacent ripples, producing an intricate and captivating water simulation.
 
-https://github.com/mikee478/raindrop-simulation/assets/28791222/4abbaecb-d766-4703-9fd2-26e8d12a4820
+Furthermore, this project offers the flexibility to explore alternative methods beyond averaging the heights of neighboring cells, enabling the generation of unique visual effects. By incorporating different averaging techniques, the simulation can create a wave-like behavior in the water. These waves can propagate through the grid, interacting with the raindrops and producing mesmerizing patterns. Additionally, by experimenting with alternative approaches, the simulation can also achieve abstract artistic effects, transforming the representation of water into a visually captivating and imaginative display.
+
+https://github.com/mikee478/raindrop-simulation/assets/28791222/af4667cb-5774-42b4-9e59-84532eacf607
