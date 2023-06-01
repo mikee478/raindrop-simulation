@@ -1,6 +1,6 @@
 # Raindrop Simulation
 
-The 2D Raindrop Simulation project is a captivating, yet simple implementation of water dynamics, based on Hugo Elias' article titled "2D Water." This simulation offers a mesmerizing visual representation of raindrops interacting with a 2D grid that represents the water's height at various locations. What makes this simulation unique is its ability to achieve realistic water movement without the use of trigonometric functions or differential equations.
+The Raindrop Simulation project is a captivating, yet simple implementation of water dynamics, based on Hugo Elias' article titled "2D Water." This simulation offers a mesmerizing visual representation of raindrops interacting with a 2D grid that represents the water's height at various locations. What makes this simulation unique is its ability to achieve realistic water movement without the use of trigonometric functions or differential equations.
 
 At its core, the simulation employs a straightforward yet effective approach to update the water's height and simulate its behavior. The 2D grid serves as a canvas where the height of the water is depicted at each discrete location. The simulation dynamically evolves by iterating over each grid cell, recalculating the water's height based on neighboring cells and estimated velocity.
 
